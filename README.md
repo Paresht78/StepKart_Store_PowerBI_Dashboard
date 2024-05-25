@@ -48,6 +48,11 @@ To set up and run this project locally, follow these steps:
 - `Orders.csv`: Includes order data.
 - `README.md`: Project documentation.
 
+## Dashboard Image
+
+![Alt text](Dashboard.jpg)
+
+
 ## Acknowledgements
 
 This project utilizes PowerBI for creating dynamic and interactive dashboards.
