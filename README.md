@@ -56,10 +56,6 @@ This project utilizes PowerBI for creating dynamic and interactive dashboards.
 
 We welcome contributions to this project! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
-Thank you for using the StepKart Store PowerBI Dashboard! We hope this tool provides valuable insights for your store operations. For any questions or feedback, please contact us at [your.email@example.com].
+Thank you for using the StepKart Store PowerBI Dashboard! We hope this tool provides valuable insights for your store operations. For any questions or feedback, please contact us at [pareshtilokani088@gmail.com].
