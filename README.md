@@ -50,10 +50,7 @@ To set up and run this project locally, follow these steps:
 
 ## Dashboard Image
 
-![Alt text](1.png)
-![Alt text](2.png)
-![Alt text](3.png)
-![Alt text](4.png)
+![Alt text](Download.jp)
 
 
 ## Acknowledgements
